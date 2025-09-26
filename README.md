@@ -1,4 +1,3 @@
-# gaming-club
 # Gaming Club
 
 A demo Spring Boot project for managing gaming club operations. This project showcases a RESTful backend system for managing members, games, recharges, and transactions, using Java and Spring technologies.
